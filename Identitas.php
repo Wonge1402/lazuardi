@@ -1,2 +1,4 @@
 Nama : muhamad firdaus lazuardi
-Kelas : XI IPS 2
+Alamat : bendil jaya rt3 rw6
+
+Sekolah : SMA MUHAMMADIYAH 8 CERME-GRESIK
