@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c74"
+  },
+  "nama": "muhamad firdaus lazuardi",
+  "nim": "220602079",
+  "kelas": "B pagi"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c75"
+  },
+  "nama": "Kota Bandung",
+  "provinsi": "Jawa Barat",
+  "gambar": "https://images.app.goo.gl/mLqgZJCQL6dcDyPN8",
+  "kuliner": "batagor kingsley, https://images.app.goo.gl/LMvhpYoAZDvAGrfn6",
+  "gunung": "tangkuban perahu, https://images.app.goo.gl/KWoBKrRaCcAFwASq9",
+  "pantai": "pangandaran, https://images.app.goo.gl/WcxZ7RE4DRBnJhHz7",
+  "hotel": "hotel savoy homann, https://images.app.goo.gl/hAtT4uK1EN1aqKjN7"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c76"
+  },
+  "nama": "banda aceh",
+  "provinsi": "aceh",
+  "gambar": "https://images.app.goo.gl/7iNpzgBbZa7GkfZH7",
+  "kuliner": "martabak aceh, https://images.app.goo.gl/tvLPuM5mAVNkDcCZ8",
+  "gunung": "seulawah agam, https://images.app.goo.gl/t7iNrg9s1jUwAGCYA",
+  "pantai": "lhoknga, https://images.app.goo.gl/jwMJapWCt1uqkLrbA",
+  "hotel": "portola grand arabia, https://images.app.goo.gl/VAssfGPSe7ADybBq8"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c77"
+  },
+  "nama": "medan",
+  "provinsi": "sumatera utara",
+  "gambar": "https://images.app.goo.gl/LbzvM9QtUuB2tF359",
+  "kuliner": "sate padang",
+  "gunung": "sinabung",
+  "pantai": "lhok dalam",
+  "museum": "museum negeri sumatera utara",
+  "hotel": "four season"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c78"
+  },
+  "nama": "padang",
+  "provinsi": "sumatera barat",
+  "gambar": "https://images.app.goo.gl/mr2p4UVL1du7ALhdA",
+  "kuliner": "sate mak syuur",
+  "gunung": "merapi",
+  "pantai": "taplau",
+  "museum": "adityawarman",
+  "hotel": "kawana hotel padang"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c79"
+  },
+  "nama": "pekanbaru",
+  "provinsi": "riau",
+  "gambar": "https://images.app.goo.gl/Nhro93fmL8KXEH9X9",
+  "kuliner": "pukis padusari",
+  "gunung": "sago",
+  "pantai": "rupat",
+  "museum": "sang nila utama",
+  "hotel": "winstar hotel pekanbaru"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7a"
+  },
+  "nama": "jambi",
+  "provinsi": "jambi",
+  "gambar": "https://images.app.goo.gl/kNXordLaEP2LMPCu5",
+  "kuliner": "nasi gemuk",
+  "gunung": "masurai",
+  "danau": "gunung tujuh",
+  "museum": "muara jambi",
+  "hotel": "luminor hotel jambi"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7b"
+  },
+  "nama": "bengkulu",
+  "provinsi": "bengkulu",
+  "gambar": "https://images.app.goo.gl/C4KrGmfZij6pNwx47",
+  "kuliner": "pendap",
+  "gunung": "patah, kaba",
+  "pantai": "panjang",
+  "museum": "bengkulu",
+  "hotel": "sinar sport hotel"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7c"
+  },
+  "nama": "jakarta",
+  "provinsi": "DKI jakarta",
+  "gambar": "https://images.app.goo.gl/Nyg4hY84YCRSJGjB8",
+  "kuliner": "soto betawi",
+  "gunung": "gede pangrango",
+  "pantai": "anyer",
+  "museum": "nasional indonesia",
+  "hotel": "The Ritz-Carlton Jakarta, Pacific Place"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7d"
+  },
+  "nama": "Yogyakarta",
+  "provinsi": "DI Yogyakarta",
+  "gambar": "https://images.app.goo.gl/iBg4u4YT7hkAZyHE8",
+  "kuliner": "Gudeg",
+  "gunung": "Merapi",
+  "pantai": "Parangtritis",
+  "museum": "Museum Sonobudoyo",
+  "hotel": "Hotel Tentrem"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7e"
+  },
+  "nama": "Surabaya",
+  "provinsi": "Jawa Timur",
+  "gambar": "https://images.app.goo.gl/jRzVEbe831Yp12tD8",
+  "kuliner": "Rujak Cingur",
+  "gunung": "Bromo",
+  "pantai": "Pantai Kenjeran",
+  "museum": "Museum 10 November",
+  "hotel": "Hotel Majapahit"
+},
+{
+  "_id": {
+    "$oid": "681e1463ee48e17fe7908c7f"
+  },
+  "nama": "Denpasar",
+  "provinsi": "Bali",
+  "gambar": "https://images.app.goo.gl/BSy3oXdbeJ6mHDK68",
+  "kuliner": "Ayam Betutu",
+  "gunung": "Agung",
+  "pantai": "Kuta",
+  "museum": "Museum Bali",
+  "hotel": "The Trans Resort Bali"
+}]
